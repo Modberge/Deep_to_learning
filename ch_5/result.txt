@@ -1,0 +1,40 @@
+start change batch_size
+batch size 32, test acc 0.7879
+start change batch_size
+batch size 64, test acc 0.7672
+start change batch_size
+batch size 128, test acc 0.7918
+start change batch_size
+batch size 256, test acc 0.7685
+start change batch_size
+batch size 512, test acc 0.7839
+start change lr
+lr 1.000000, test acc 0.1000
+start change lr
+lr 0.100000, test acc 0.3323
+start change lr
+lr 0.010000, test acc 0.4822
+start change lr
+lr 0.001000, test acc 0.7099
+start change lr
+lr 0.000100, test acc 0.6782
+start change num epcohs
+num epochs 1, test acc 0.5992
+start change num epcohs
+num epochs 5, test acc 0.6764
+start change num epcohs
+num epochs 10, test acc 0.6281
+start change num epcohs
+num epochs 15, test acc 0.6816
+start change num epcohs
+num epochs 20, test acc 0.7179
+start change decay
+decay 1.000000, test acc 0.6222
+start change decay
+decay 0.100000, test acc 0.7276
+start change decay
+decay 0.010000, test acc 0.6787
+start change decay
+decay 0.001000, test acc 0.6698
+start change decay
+decay 0.000100, test acc 0.7132
